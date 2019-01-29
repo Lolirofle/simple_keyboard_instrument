@@ -1,0 +1,9 @@
+[package]
+name = "keyboard_piano"
+version = "0.1.0"
+authors = ["Lolirofle <lolipopple@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+cpal = "*"
+winit = "*"
